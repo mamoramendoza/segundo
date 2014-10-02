@@ -3,6 +3,7 @@
   <head>
     <title>Acceso a la aplicación</title>
 	<meta charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="app.css"></link>
   </head>
   <body lang="es">
      <h2>Introduzca sus datos de entrada</h2>
