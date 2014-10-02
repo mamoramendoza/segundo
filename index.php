@@ -5,6 +5,7 @@
 	<meta charset="utf-8"/>
   </head>
   <body lang="es">
+     <h2>Introduzca sus datos de entrada</h2>
   	 <form method="post">
          <fieldset>
            <legend>Fomulario de entrada</legend>
