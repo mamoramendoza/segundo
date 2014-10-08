@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title></title>
+    <title>Acceso a la aplicación</title>
 	<meta charset="utf-8"/>
   </head>
   <body lang="es">

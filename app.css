@@ -1,0 +1,10 @@
+body{
+	background: red;
+
+}
+form{
+	border-width: 5px;
+}
+h2{
+	border-color: yellow;
+}
